@@ -7,12 +7,13 @@
     <Authors>Sandra Sevilleja</Authors>
     <Company>Master Desarrollo Tajamar</Company>
     <Description>Neget con los modelos de la Api VetPet</Description>
-    <PackageIcon>2491120.png</PackageIcon>
+    <PackageIcon>Piskel-0002368_600.png</PackageIcon>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>2.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="D:\Imágenes\2491120.png">
+    <None Include="..\..\..\..\Pictures\Piskel-0002368_600.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
